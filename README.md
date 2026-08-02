@@ -27,8 +27,8 @@ Structured data extracted from each of the **42 included studies**, following th
 | `DOI` | Digital Object Identifier |
 | `Theoretical Focus` | How the study defines / uses affordance |
 | `Domain` | Application domain (e.g. Smart Home, Healthcare, Workplace) |
-| `Sub-domain` | Fine-grained category |
-| `Technologies` | Technologies applied or addressed |
+| `Sub-domain` | Fine-grained category within the domain |
+| `Technologies` | Technologies applied or addressed in the study |
 | `Strategies` | Design and development approach |
 | `Evaluation Methods` | Evaluation and statistical methods employed |
 
